@@ -1,0 +1,4 @@
+*.swo
+*.swp
+app.war
+.DS_Store
